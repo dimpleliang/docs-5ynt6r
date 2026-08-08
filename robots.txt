@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-2m9bs9.hondatoto47azn.lat/sitemap.xml
